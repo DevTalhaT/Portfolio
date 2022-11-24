@@ -1,0 +1,73 @@
+.Topcontainer{
+  margin-top: 0;
+
+  position: relative;
+  padding-top: 6.25rem;
+}
+h1{
+
+  font-family: Brush Script MT ,cursive;
+  color: #344D67;
+  font-size: 4.5rem;
+  position: relative;
+  bottom: 120px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h2{
+  margin-bottom: 0;
+  font-family: 'Satisfy', cursive;
+  color: #7dd87d;
+  font-size: 2.5rem;
+  position: relative;
+  bottom: 120px;
+}
+body{
+margin: 0 0 0 0;
+text-align: center;
+background-color: #CDFCF6;
+}
+
+.mountain{
+  width: 100%;
+max-width: 1500px;
+height: auto;
+padding-bottom: 30px;
+position: absolute;
+top:  0;
+bottom: 0;
+left: 0;
+z-index: 0;
+}
+/* 150,550,50 */
+.images{
+  width: 100%;
+  height: auto;
+  max-width:9.375rem;
+  padding-top: 400px;
+  position: relative;
+  bottom: 380px;
+
+}
+.about{
+  margin: 0 auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  color: #7dd87d;
+  font-size: 2.5rem;
+  position: relative;
+  bottom: 370px;
+}
+.skills{
+  font-size: 1.9375rem;
+  font-family: 'Alexandria', sans-serif;
+  color: black;
+  margin-bottom: 0;
+  position: relative;
+  bottom: 390px;
+}
+.color{
+  background-color: #CDFCF6;
+  position: relative;
+  bottom: 400px;
+
+}
